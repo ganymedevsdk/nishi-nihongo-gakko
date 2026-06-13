@@ -1,0 +1,19 @@
+# Vercel
+.vercel
+
+# AI agent tooling
+.atl
+
+# Internal / not for publication
+brand-manual.md
+assets/teaching-material
+assets/topeng-03.png
+instagram-post.html
+instagram-post.png
+instagram-post-caption.txt
+instagram-posts
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
