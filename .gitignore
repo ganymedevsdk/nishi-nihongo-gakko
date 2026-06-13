@@ -13,6 +13,9 @@ instagram-post.png
 instagram-post-caption.txt
 instagram-posts
 
+# Heavy downloadable bundles (not used by the site)
+*.zip
+
 # OS / editor
 .DS_Store
 Thumbs.db
